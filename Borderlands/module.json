@@ -1,1 +1,248 @@
+{
+  "name": "iron-kingdoms-bandb",
+  "title": "Iron Kingdoms: Borderlands & Beyond",
+  "description": "Compendium Iron Kingdoms: Borderlands & Beyond 5e Books",
+  "authors": [
+    {
+      "name": "Iron Warjack"
+    },
+    {
+      "name": "Colonialrat"
+    },
+	{
+	  "name": "JigglesExMachina"
+	}
+  ],
+  "flags": {},
+  "version": "0.8",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "scripts": ["scripts/iron-kingdoms-wp.js"],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Backgrounds (IK:BB)",
+      "type": "Item",
+      "name": "backgrounds-bb",
+      "path": "packs/backgrounds.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },
+    {
+      "label": "Classes (IK:BB)",
+      "type": "Item",
+      "name": "classes-bb",
+      "path": "packs/classes.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },
+    {
+      "label": "Class Features (IK:BB)",
+      "type": "Item",
+      "name": "class-features-bb",
+      "path": "packs/class-features.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },
+    {
+      "label": "Subclasses (IK:BB)",
+      "type": "Item",
+      "name": "subclasses-bb",
+      "path": "packs/subclasses.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },
+    {
+      "label": "Clans & Houses (IK:BB)",
+      "type": "Item",
+      "name": "clans-houses-bb",
+      "path": "packs/clans-houses-bb.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },	
+    {
+      "label": "Critical Damage (IK:BB)",
+      "type": "Item",
+      "name": "critical-damage-bb",
+      "path": "packs/critical-damage.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },
+    {
+      "label": "Affiliations (IK:BB)",
+      "type": "Item",
+      "name": "affiliations-bb",
+      "path": "packs/affiliations.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },	
+    {
+      "label": "Items (IK:BB)",
+      "type": "Item",
+      "name": "items-bb",
+      "path": "packs/items.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },
+    {
+      "label": "Feats (IK:BB)",
+      "type": "Item",
+      "name": "feats-bb",
+      "path": "packs/feats.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },	
+    {
+      "label": "Monsters (IK:BB)",
+      "type": "Actor",
+      "name": "monsters-bb",
+      "path": "packs/monsters.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },
+    {
+      "label": "Monster Features (IK:BB)",
+      "type": "Item",
+      "name": "monster-features-bb",
+      "path": "packs/monster-features.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },
+    {
+      "label": "NPCs (IK:BB)",
+      "type": "Actor",
+      "name": "npcs-bb",
+      "path": "packs/npcs.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },
+    {
+      "label": "Generic NPCs (IK:BB)",
+      "type": "Actor",
+      "name": "generic-npcs-bb",
+      "path": "packs/generic-npcs.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },
+    {
+      "label": "Race (IK:BB)",
+      "type": "Item",
+      "name": "race-bb",
+      "path": "packs/race.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },
+    {
+      "label": "Racial Features (IK:BB)",
+      "type": "Item",
+      "name": "racial-features-bb",
+      "path": "packs/racial-features.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },
+	{
+      "label": "Random Encounter Tables (IK:BB)",
+      "type": "RollTable",
+      "name": "random-encounter-tables-bb",
+      "path": "packs/random-encounter-tables.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },	
+    {
+      "label": "Rules (IK:BB)",
+      "type": "JournalEntry",
+      "name": "rules-bb",
+      "path": "packs/rules.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },
+    {
+      "label": "Spells (IK:BB)",
+      "type": "Item",
+      "name": "spells-bb",
+      "path": "packs/spells.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },
+    {
+      "label": "Rites (IK:BB)",
+      "type": "Item",
+      "name": "rites-bb",
+      "path": "packs/rites.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },
+    {
+      "label": "Steamjacks (IK:BB)",
+      "type": "Actor",
+      "name": "steamjacks-bb",
+      "path": "packs/steamjacks.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },
+    {
+      "label": "Myrmidons (IK:BB)",
+      "type": "Actor",
+      "name": "myrmidons-bb",
+      "path": "packs/myrmidons.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },	
+    {
+      "label": "Tables (IK:BB)",
+      "type": "RollTable",
+      "name": "tables-bb",
+      "path": "packs/tables.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    },
+	{
+      "label": "Adventuring Companies (IK:BB)",
+      "type": "Item",
+      "name": "adventuring-companies-bb",
+      "path": "packs/adventuring-companies-bb.db",
+      "system": "dnd5e",
+      "module": "iron-kingdoms-bandb",
+      "private": false
+    }
+  ],
+  "system": ["dnd5e"],
+  "dependencies": [
+    {
+      "name": "dnd5e",
+      "type": "system"
+    }
+  ],
+  "socket": false,
+  "manifest": "https://github.com/JigglesTheFett/IKRPGCompendium/blob/main/Borderlands/module.json",
+  "download": "https://github.com/JigglesTheFett/IKRPGCompendium/blob/main/Requiem/iron-kingdoms-bandb.zip",
+  "url": "https://github.com/JigglesTheFett/IKRPGCompendium/blob/main/readme.md",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
 
